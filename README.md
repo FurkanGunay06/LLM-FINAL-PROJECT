@@ -1,5 +1,11 @@
 # LLM Tabanlı Model Eğitim ve Karşılaştırma Çalışması
 
+
+### Projede Emeği Geçenler
+- Abdülkerim Akan
+- Furkan Günay
+- Nisa Canbolat
+
 Bu proje, çeşitli büyük dil modellerini (LLM) kullanarak Türkçe ve İngilizce veri setleri üzerinde model eğitimi, değerlendirme ve karşılaştırma yapmayı amaçlamaktadır. Kullanılan modeller, modern doğal dil işleme (NLP) teknikleriyle **soru-cevaplama** görevlerinde test edilmiştir. Amaç, modellerin farklı metrikler üzerindeki başarılarını analiz ederek en etkili modeli belirlemektir.
 
 ---
